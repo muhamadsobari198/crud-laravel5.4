@@ -7,4 +7,4 @@ CRUD Laravel 5.4 - disertai dengan Validasi default laravel
 
 3.php artisan migrate
 
-Terimakasih semoga bermanfaat !
+Semoga bermanfaat ! :))
